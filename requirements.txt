@@ -1,0 +1,9 @@
+langchain-openai
+langchain-core
+langchain-community
+pyttsx3
+SpeechRecognition
+python-dotenv
+langchain-groq
+pyaudio
+google-search-results
